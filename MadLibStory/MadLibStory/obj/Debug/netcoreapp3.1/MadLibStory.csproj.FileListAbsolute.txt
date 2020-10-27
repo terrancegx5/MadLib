@@ -1,0 +1,12 @@
+/Users/Karma/Projects/MadLibStory/MadLibStory/bin/Debug/netcoreapp3.1/MadLibStory.deps.json
+/Users/Karma/Projects/MadLibStory/MadLibStory/bin/Debug/netcoreapp3.1/MadLibStory.runtimeconfig.json
+/Users/Karma/Projects/MadLibStory/MadLibStory/bin/Debug/netcoreapp3.1/MadLibStory.runtimeconfig.dev.json
+/Users/Karma/Projects/MadLibStory/MadLibStory/bin/Debug/netcoreapp3.1/MadLibStory.dll
+/Users/Karma/Projects/MadLibStory/MadLibStory/bin/Debug/netcoreapp3.1/MadLibStory.pdb
+/Users/Karma/Projects/MadLibStory/MadLibStory/obj/Debug/netcoreapp3.1/MadLibStory.csprojAssemblyReference.cache
+/Users/Karma/Projects/MadLibStory/MadLibStory/obj/Debug/netcoreapp3.1/MadLibStory.AssemblyInfoInputs.cache
+/Users/Karma/Projects/MadLibStory/MadLibStory/obj/Debug/netcoreapp3.1/MadLibStory.AssemblyInfo.cs
+/Users/Karma/Projects/MadLibStory/MadLibStory/obj/Debug/netcoreapp3.1/MadLibStory.csproj.CoreCompileInputs.cache
+/Users/Karma/Projects/MadLibStory/MadLibStory/obj/Debug/netcoreapp3.1/MadLibStory.dll
+/Users/Karma/Projects/MadLibStory/MadLibStory/obj/Debug/netcoreapp3.1/MadLibStory.pdb
+/Users/Karma/Projects/MadLibStory/MadLibStory/obj/Debug/netcoreapp3.1/MadLibStory.genruntimeconfig.cache

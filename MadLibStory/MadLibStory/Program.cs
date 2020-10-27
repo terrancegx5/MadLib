@@ -1,0 +1,57 @@
+﻿using System;
+
+namespace MadLibStory
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string noun;
+            noun = "rabbit";
+
+            string nounTwo;
+            nounTwo = "house";
+
+            string nounThree;
+            nounThree = "owl";
+
+            string verb;
+            verb = "run";
+
+            string adverb;
+            adverb = "quickly";
+
+            string adjective;
+            adjective = "red";
+
+            string adjectiveTwo;
+            adjectiveTwo = "Big";
+
+            string adjectiveThree;
+            adjectiveThree = "long";
+
+            string verbPastTenseTwo;
+            verbPastTenseTwo = "took";
+
+            string verbPastTense;
+            verbPastTense = "ran";
+
+            Console.WriteLine("Today I went to the zoo. I saw a " + adjective + noun + " jumping up and down in its tree. " +
+                "He " + verbPastTense + adverb + " through the large tunnel that led to its " + adjectiveTwo + nounTwo +
+                " I got some peanuts and passed them through the cage to a gigantic gray " + nounThree + " towering above my head. " +
+                "Feed that animal made me hungry. I went to get a " + adjectiveTwo + " scoop of ice cream. It filled my stomach. " +
+                "Afterwards I had to " + verb +  adverb + " to cath our bus. When I got home I " + verbPastTenseTwo + " my mom for " +
+                "a " + adjectiveThree + " day at the zoo.");
+
+            Console.WriteLine("Enter a noun: ");
+
+            string nounFour = 
+
+            Console.ReadLine();
+
+            Console.WriteLine("You've entered " + nounFour);
+
+
+        }
+    }
+}
